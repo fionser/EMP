@@ -1,0 +1,13 @@
+//
+// Created by Lu WJ on 6/6/2017 AD.
+//
+
+#ifndef EMP_GARBLE_GARBLE
+#define EMP_GARBLE_GARBLE
+#include "aes.h"
+#include "block.h"
+#include "garble.h"
+#include "garble_gate_halfgates.h"
+#include "garble_gate_privacy_free.h"
+#include "garble_gate_standard.h"
+#endif //EMP_GARBLE_GARBLE

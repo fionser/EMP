@@ -1,0 +1,14 @@
+//
+// Created by Lu WJ on 6/6/2017 AD.
+//
+
+#ifndef EMP_GC_GC
+#define EMP_GC_GC
+#include "backend.h"
+#include "halfgate_eva.h"
+#include "halfgate_gen.h"
+#include "circuit_file_generator.h"
+#include "garble_circuit.h"
+#include "privacy_free_eva.h"
+#include "privacy_free_gen.h"
+#endif //EMP_GC_GC

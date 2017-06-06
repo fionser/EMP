@@ -1,0 +1,13 @@
+//
+// Created by Lu WJ on 6/6/2017 AD.
+//
+
+#ifndef EMP_EMP
+#define EMP_EMP
+#include "emp/circuits/circuits"
+#include "emp/garble/garble"
+#include "emp/gc/gc"
+#include "emp/io/io"
+#include "emp/ot/ot"
+#include "emp/utils/utils"
+#endif //EMP_EMP

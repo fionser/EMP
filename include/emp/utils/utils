@@ -1,0 +1,15 @@
+//
+// Created by Lu WJ on 6/6/2017 AD.
+//
+
+#ifndef EMP_UTILS_UTILS
+#define EMP_UTILS_UTILS
+#include "block.h"
+#include "com.h"
+#include "fmemopen.h"
+#include "hash.h"
+#include "prg.h"
+#include "prp.h"
+#include "utils.h"
+#include "utils_ec.h"
+#endif //EMP_UTILS_UTILS

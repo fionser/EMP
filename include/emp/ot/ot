@@ -1,0 +1,14 @@
+//
+// Created by Lu WJ on 6/6/2017 AD.
+//
+
+#ifndef EMP_OT_OT
+#define EMP_OT_OT
+#include "co.h"
+#include "ideal.h"
+#include "iterated.h"
+#include "mallicious-ot.h"
+#include "np.h"
+#include "ot.h"
+#include "shextension.h"
+#endif //EMP_OT_OT

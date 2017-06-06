@@ -1,0 +1,12 @@
+//
+// Created by Lu WJ on 6/6/2017 AD.
+//
+
+#ifndef EMP_IO_IO
+#define EMP_IO_IO
+#include "check_io_channel.h"
+#include "file_io_channel.h"
+#include "io_channel.h"
+#include "mem_io_channel.h"
+#include "net_io_channel.h"
+#endif //EMP_IO_IO
